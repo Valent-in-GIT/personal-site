@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+}
+
+.profile img {
+    border-radius: 50%;
+    max-width: 150px;
+}
+
+.gallery img {
+    max-width: 100%;
+    height: auto;
+    margin: 5px;
+}
+
+.project {
+    margin-bottom: 30px;
+}
+
+.project iframe {
+    width: 100%;
+    max-width: 800px;
+    height: 450px;
+}
+
+.publication {
+    margin-bottom: 30px;
+}
+
+.cv-section {
+    margin-bottom: 20px;
+}
+
+/* Otros estilos según sea necesario */
